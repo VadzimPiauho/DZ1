@@ -1,0 +1,8 @@
+E:\programming training\C#\dz1\dz1_5\bin\Debug\dz1_5.exe.config
+E:\programming training\C#\dz1\dz1_5\bin\Debug\dz1_5.exe
+E:\programming training\C#\dz1\dz1_5\bin\Debug\dz1_5.pdb
+E:\programming training\C#\dz1\dz1_5\obj\Debug\dz1_5.exe
+E:\programming training\C#\dz1\dz1_5\obj\Debug\dz1_5.pdb
+E:\programming training\GitHub\dz1\dz1_5\bin\Debug\dz1_5.exe.config
+E:\programming training\GitHub\dz1\dz1_5\obj\Debug\dz1_5.exe
+E:\programming training\GitHub\dz1\dz1_5\obj\Debug\dz1_5.pdb

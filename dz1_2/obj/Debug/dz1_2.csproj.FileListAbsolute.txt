@@ -1,0 +1,8 @@
+c:\users\loloby\documents\visual studio 2015\Projects\dz1\dz1_2\bin\Debug\dz1_2.exe.config
+c:\users\loloby\documents\visual studio 2015\Projects\dz1\dz1_2\bin\Debug\dz1_2.exe
+c:\users\loloby\documents\visual studio 2015\Projects\dz1\dz1_2\bin\Debug\dz1_2.pdb
+c:\users\loloby\documents\visual studio 2015\Projects\dz1\dz1_2\obj\Debug\dz1_2.exe
+c:\users\loloby\documents\visual studio 2015\Projects\dz1\dz1_2\obj\Debug\dz1_2.pdb
+E:\programming training\C#\dz1\dz1_2\bin\Debug\dz1_2.exe.config
+E:\programming training\C#\dz1\dz1_2\obj\Debug\dz1_2.exe
+E:\programming training\C#\dz1\dz1_2\obj\Debug\dz1_2.pdb

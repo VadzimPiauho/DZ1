@@ -1,0 +1,6 @@
+E:\programming training\C#\dz1\dz1_4\bin\Debug\dz1_4.exe.config
+E:\programming training\C#\dz1\dz1_4\bin\Debug\dz1_4.exe
+E:\programming training\C#\dz1\dz1_4\bin\Debug\dz1_4.pdb
+E:\programming training\C#\dz1\dz1_4\obj\Debug\dz1_4.csprojResolveAssemblyReference.cache
+E:\programming training\C#\dz1\dz1_4\obj\Debug\dz1_4.exe
+E:\programming training\C#\dz1\dz1_4\obj\Debug\dz1_4.pdb
