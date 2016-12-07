@@ -10,7 +10,7 @@ namespace dz1_1
     {
         static void Main(string[] args)
         {
-            int SpaceValue = 0;
+            int spaceValue = 0;
             ConsoleKeyInfo Symbol;
             Console.WriteLine("Программа подсчета веденных пробелов"); 
             do
@@ -24,14 +24,14 @@ namespace dz1_1
                 if (Symbol.KeyChar == ' ')
                 {
                     Console.WriteLine("Пробел");
-                    SpaceValue++;
+                    spaceValue++;
                 }
                 if (Symbol.KeyChar == '.')
                 {
                     break;
                 }
             } while (true);
-            Console.WriteLine("Количество введенных пробелов = " + SpaceValue);  
+            Console.WriteLine("Количество введенных пробелов = " + spaceValue);  
         }
     }
 }

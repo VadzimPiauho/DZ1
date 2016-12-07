@@ -13,18 +13,18 @@ namespace dz1_2
             Console.WriteLine("Введите 6 значный билет");
             try
             {
-                string Sticket = Console.ReadLine();
-                if (Sticket.Length < 0 && Sticket.Length > 6)
+                string sticket = Console.ReadLine();
+                if (sticket.Length < 0 && sticket.Length > 6)
                 {
                     throw new IndexOutOfRangeException();
                 }
-                int Iticket = Convert.ToInt32(Sticket);
-                Console.WriteLine((Convert.ToInt32(Convert.ToString(Sticket)[0].ToString()) +
-                                   Convert.ToInt32(Convert.ToString(Sticket)[1].ToString()) +
-                                   Convert.ToInt32(Convert.ToString(Sticket)[2].ToString())) ==
-                                  (Convert.ToInt32(Convert.ToString(Sticket)[3].ToString()) +
-                                   Convert.ToInt32(Convert.ToString(Sticket)[4].ToString()) +
-                                   Convert.ToInt32(Convert.ToString(Sticket)[5].ToString()))
+                int Iticket = Convert.ToInt32(sticket);
+                Console.WriteLine((Convert.ToInt32(Convert.ToString(sticket)[0].ToString()) +
+                                   Convert.ToInt32(Convert.ToString(sticket)[1].ToString()) +
+                                   Convert.ToInt32(Convert.ToString(sticket)[2].ToString())) ==
+                                  (Convert.ToInt32(Convert.ToString(sticket)[3].ToString()) +
+                                   Convert.ToInt32(Convert.ToString(sticket)[4].ToString()) +
+                                   Convert.ToInt32(Convert.ToString(sticket)[5].ToString()))
                     ? "Билет счастливый"
                     : "Билет не является счастливым");
             }
