@@ -4,3 +4,9 @@ c:\users\loloby\documents\visual studio 2015\Projects\dz1\dz1_1\bin\Debug\dz1_1.
 c:\users\loloby\documents\visual studio 2015\Projects\dz1\dz1_1\obj\Debug\dz1_1.csprojResolveAssemblyReference.cache
 c:\users\loloby\documents\visual studio 2015\Projects\dz1\dz1_1\obj\Debug\dz1_1.exe
 c:\users\loloby\documents\visual studio 2015\Projects\dz1\dz1_1\obj\Debug\dz1_1.pdb
+C:\Users\pst\Desktop\DZ1\dz1_1\bin\Debug\dz1_1.exe.config
+C:\Users\pst\Desktop\DZ1\dz1_1\obj\Debug\dz1_1.exe
+C:\Users\pst\Desktop\DZ1\dz1_1\obj\Debug\dz1_1.pdb
+C:\Users\pst\Desktop\DZ1\dz1_1\bin\Debug\dz1_1.exe
+C:\Users\pst\Desktop\DZ1\dz1_1\bin\Debug\dz1_1.pdb
+C:\Users\pst\Desktop\DZ1\dz1_1\obj\Debug\dz1_1.csprojResolveAssemblyReference.cache

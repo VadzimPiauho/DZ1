@@ -9,3 +9,6 @@ E:\programming training\GitHub\dz1\dz1_5\obj\Debug\dz1_5.pdb
 E:\programming training\GitHub\DZ1\dz1_5\bin\Debug\dz1_5.exe
 E:\programming training\GitHub\DZ1\dz1_5\bin\Debug\dz1_5.pdb
 E:\programming training\GitHub\DZ1\dz1_5\obj\Debug\dz1_5.csprojResolveAssemblyReference.cache
+C:\Users\pst\Desktop\DZ1\dz1_5\bin\Debug\dz1_5.exe.config
+C:\Users\pst\Desktop\DZ1\dz1_5\obj\Debug\dz1_5.exe
+C:\Users\pst\Desktop\DZ1\dz1_5\obj\Debug\dz1_5.pdb

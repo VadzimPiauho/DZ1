@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace dz1_1
 {
     class Program
@@ -20,7 +22,10 @@ namespace dz1_1
                 Symbol = Console.ReadKey();
                 Console.WriteLine();
                 Console.Clear();
-                Console.WriteLine("Введенный символ " + Symbol.KeyChar);
+                //if ((Symbol.Modifiers & ConsoleModifiers.Shift) != 0) Console.Write("SHIFT+");
+                //if ((Symbol.Key==ConsoleKey.DownArrow)) Console.Write(Symbol.Key);
+
+                Console.WriteLine(Symbol.Key);
                 if (Symbol.KeyChar == ' ')
                 {
                     Console.WriteLine("Пробел");
